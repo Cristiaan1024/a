@@ -1,0 +1,4 @@
+var num;
+num = prompt
+
+
